@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Coffee</string>
+    <string name="back_arrow_content_description">The arrow back icon</string>
+    <string name="open_map_description">Open map with near coffee shops</string>
+    <string name="register_title">Register</string>
+    <string name="login_title">Login</string>
+    <string name="locations_title">Nearest coffee shops</string>
+    <string name="map_title">Map</string>
+    <string name="menu_title">Menu</string>
+    <string name="email_title" translatable="false">E-mail</string>
+    <string name="order_title">Your order</string>
+    <string name="password_title">Password</string>
+    <string name="confirm_password_title">Confirm password</string>
+    <string name="eye_open">Show password</string>
+    <string name="wrong_input_data">Сheck the data specified in the fields</string>
+    <string name="register_nav_button">Register</string>
+    <string name="decrease_button">Decrease amount</string>
+    <string name="increase_button">Increase amount</string>
+    <string name="rub">Rub</string>
+    <string name="proceed_to_payment">Proceed to payment</string>
+    <string name="pay">Pay</string>
+    <string name="on_map">Show map</string>
+    <string name="order_prepared">Waiting time for your order is 15 minutes! Thank you for choosing us!</string>
+    <string name="distance">%.1f km from You</string>
+
+    <string name="request_body_exception">Request body error. Login and password can\'t be empty</string>
+    <string name="user_not_authorized_exception">User not authorized. Please, login.</string>
+    <string name="user_not_exist_exception">User not exist. Please, register.</string>
+    <string name="login_already_used_exception">This login already used</string>
+    <string name="unknown_domain_exception">Ooops! Something went wrong..</string>
+</resources>

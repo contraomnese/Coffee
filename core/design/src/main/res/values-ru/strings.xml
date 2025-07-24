@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="back_arrow_content_description">Иконка стрелка назад</string>
+    <string name="open_map_description">Открыть карту с ближайшими коффейнями</string>
+    <string name="register_title">Регистрация</string>
+    <string name="register_nav_button">Зарегистрироваться</string>
+    <string name="login_title">Войти</string>
+    <string name="locations_title">Ближайшие коффейни</string>
+    <string name="map_title">Карта</string>
+    <string name="menu_title">Меню</string>
+    <string name="order_title">Ваш заказ</string>
+    <string name="password_title">Пароль</string>
+    <string name="confirm_password_title">Подтвердите пароль</string>
+    <string name="eye_open">Показать пароль</string>
+    <string name="wrong_input_data">Проверьте данные указанные в полях</string>
+    <string name="decrease_button">Увеличить количество</string>
+    <string name="increase_button">Уменьшите количество</string>
+    <string name="rub">Руб</string>
+    <string name="proceed_to_payment">Перейти к оплате</string>
+    <string name="pay">Оплатить</string>
+    <string name="on_map">На карте</string>
+    <string name="order_prepared">Время ожидания заказа 15 минут! Спасибо, что выбрали нас!</string>
+    <string name="distance">%.1f км от Вас</string>
+    <string name="request_body_exception">Ошибка в теле запроса. Логин и пароль не могут быть пустыми.</string>
+    <string name="user_not_authorized_exception">Пользователь не авторизован. Пожулайста, войдите.</string>
+    <string name="user_not_exist_exception">Пользователя не существует. Пожулайста, зарегистрируйтесь.</string>
+    <string name="login_already_used_exception">Данный логин уже используется</string>
+    <string name="unknown_domain_exception">Ой! Что-то пошло не так..</string>
+</resources>
