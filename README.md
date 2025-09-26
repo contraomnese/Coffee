@@ -1,7 +1,5 @@
-# ☕ CoffeApp
-
 ## 📋 About
-**CoffeApp** — A mobile app developed as part of a test project. It allows users to register, select one of the available coffee shops on the map, and place an order. The project includes authorization, map navigation, displaying a list of shops, and placing an order.
+**CoffeeApp** — A mobile app developed as part of a test project. It allows users to register, select one of the available coffee shops on the map, and place an order. The project includes authorization, map navigation, displaying a list of shops, and placing an order.
 
 ## Auth
 <p align="center">
