@@ -1,16 +1,7 @@
-# CoffeApp
+# ☕ CoffeApp
 
-## Demo
-
-### Full
-https://github.com/user-attachments/assets/31d9533e-2086-4a4b-814c-7627b2e8bbc3
-
-### Notification
-https://github.com/user-attachments/assets/5ef0471f-3dba-49cd-b8f6-50e7127e6206
-
-### Fast sign up
-https://github.com/user-attachments/assets/dd7764e6-54ab-4bd6-8260-03b95a52eb40
-
+## 📋 About
+**CoffeApp** — A mobile app developed as part of a test project. It allows users to register, select one of the available coffee shops on the map, and place an order. The project includes authorization, map navigation, displaying a list of shops, and placing an order.
 
 ## Auth
 <p align="center">
@@ -30,3 +21,35 @@ https://github.com/user-attachments/assets/dd7764e6-54ab-4bd6-8260-03b95a52eb40
   <img src="https://github.com/user-attachments/assets/8078066e-0761-4bf6-be4a-7f7c93d4033a" width="300"/>
   <img src="https://github.com/user-attachments/assets/5aedea67-e2e8-470f-9e25-b51cdbe7b070" width="300"/>
 </p>
+
+## 🔧 Features
+- 📍 Displaying coffee shops on a map
+- 📦 List of coffee shops with selectable options
+- ✅ Authorization and registration
+- 🛒 Placing an order
+- 🗂 Working with DataStore
+- 🌐 Connecting to the REST API via Retrofit
+- 🔑 Integration with Koin for dependency injection
+- 🎨 Using Jetpack Compose for UI
+- 🧪 UI and logic testing
+
+## 🧰 Stack
+- 🛠 **Jetpack Compose**
+- 🧭 **Navigation Compose**
+- 🧩 **Koin**
+- 🔌 **Retrofit + Gson**
+- 🧾 **DataStore**
+- 📍 **Yandex Maps**
+- 🌀 **Coroutines**
+
+### Full
+https://github.com/user-attachments/assets/31d9533e-2086-4a4b-814c-7627b2e8bbc3
+
+### Notification
+https://github.com/user-attachments/assets/5ef0471f-3dba-49cd-b8f6-50e7127e6206
+
+### Fast sign up
+https://github.com/user-attachments/assets/dd7764e6-54ab-4bd6-8260-03b95a52eb40
+
+
+
